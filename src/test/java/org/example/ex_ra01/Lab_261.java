@@ -2,7 +2,7 @@ package org.example.ex_ra01;
 
 import io.restassured.RestAssured;
 
-public class Lab_260 {
+public class Lab_261 {
     public static void main(String[] args) {
         // Rest assured hello world program
        // RestAssured.basic().authenticate().

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful booker API CRUD">
+    <test verbose="2"  name="CRUD ALL TEST CASE">
+<!--        <classes>-->
+
+<!--            <class name="org.example.ex_22_06_2024.crud.Get.Lab_270"> </class>-->
+<!--            <class name="org.example.ex_22_06_2024.crud.Post.Lab_272">  </class>-->
+<!--            <class name="org.example.ex_22_06_2024.crud.Put.Lab_273">  </class>-->
+<!--            <class name="org.example.ex_22_06_2024.crud.Patch.Lab_274">  </class>-->
+<!--            <class name="org.example.ex_22_06_2024.crud.Delete.Lab_275">  </class>-->
+
+
+<!--        </classes>-->
+
+
+        <packages>
+            <package name="org.example.ex_22_06_2024.crud.*" />
+        </packages>
+    </test>
+</suite>

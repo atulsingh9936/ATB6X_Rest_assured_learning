@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6X_Rest_assured_learning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.035">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPUTReq"
+                time="0.035"
+                classname="org.example.testng.Lab_267">
+            </testcase>
+</testsuite>

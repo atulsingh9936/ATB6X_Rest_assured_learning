@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRUD ALL TEST CASE"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.223">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getrequestpositive"
+                time="1.131"
+                classname="org.example.ex_22_06_2024.crud.Get.Lab_270">
+            </testcase>
+            <testcase
+                name="getrequestnegative"
+                time="1.092"
+                classname="org.example.ex_22_06_2024.crud.Get.Lab_270">
+            </testcase>
+</testsuite>

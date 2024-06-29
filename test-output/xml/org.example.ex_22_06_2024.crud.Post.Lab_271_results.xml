@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRUD ALL TEST CASE"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.209">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testbddstylepostpositive"
+                time="1.209"
+                classname="org.example.ex_22_06_2024.crud.Post.Lab_271">
+            </testcase>
+</testsuite>

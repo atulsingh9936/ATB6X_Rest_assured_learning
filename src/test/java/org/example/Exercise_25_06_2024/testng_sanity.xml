@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful booker API test suite">
+    <test verbose="2" preserve-order="true" name="ATB6X_Rest_assured_learning">
+
+        <groups>
+           <run>
+               <include name="Sanity"></include>
+
+           </run>
+        </groups>
+        <classes>
+
+            <class name="org.example.Exercise_25_06_2024.Lab_280"> </class>
+
+
+        </classes>
+    </test>
+</suite>

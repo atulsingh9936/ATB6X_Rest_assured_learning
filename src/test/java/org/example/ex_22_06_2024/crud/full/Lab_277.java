@@ -107,6 +107,7 @@ public class Lab_277 {
         requestSpecification.basePath("booking/"+bookingID);
         requestSpecification.contentType(ContentType.JSON);
         requestSpecification.cookie("token", token);
+       // requestSpecification.auth().oauth2("token");
 
         // put request
 

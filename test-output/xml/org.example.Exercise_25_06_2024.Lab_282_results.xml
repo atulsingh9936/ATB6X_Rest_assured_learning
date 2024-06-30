@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6X_Rest_assured_learning"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.049">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getBookingID"
+                time="0.042"
+                classname="org.example.Exercise_25_06_2024.Lab_282">
+            </testcase>
+            <testcase
+                name="gettoken"
+                time="0.003"
+                classname="org.example.Exercise_25_06_2024.Lab_282">
+            </testcase>
+            <testcase
+                name="testdeleterequest"
+                time="0.002"
+                classname="org.example.Exercise_25_06_2024.Lab_282">
+            </testcase>
+            <testcase
+                name="testputrequest"
+                time="0.002"
+                classname="org.example.Exercise_25_06_2024.Lab_282">
+            </testcase>
+</testsuite>

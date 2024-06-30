@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CRUD ALL TEST CASE"
+<testsuite name="ATB6X_Rest_assured_learning"
            tests="2"
            failures="0"
            errors="0"
            skipped="0"
-           time="2.412">
+           time="3.895">
     <properties></properties>
 
 
 
             <testcase
                 name="testnonbddstylePOSTNegative"
-                time="1.161"
+                time="2.653"
                 classname="org.example.ex_22_06_2024.crud.Post.Lab_272">
             </testcase>
             <testcase
                 name="testnonbddstylePOSTpositive"
-                time="1.251"
+                time="1.242"
                 classname="org.example.ex_22_06_2024.crud.Post.Lab_272">
             </testcase>
 </testsuite>

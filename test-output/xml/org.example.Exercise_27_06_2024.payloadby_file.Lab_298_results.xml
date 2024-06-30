@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6X_Rest_assured_learning"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.400">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testpostrequest"
+                time="2.400"
+                classname="org.example.Exercise_27_06_2024.payloadby_file.Lab_298">
+            </testcase>
+</testsuite>
